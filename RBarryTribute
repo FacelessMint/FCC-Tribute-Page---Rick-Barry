@@ -1,1 +1,29 @@
 # FCC-Tribute-Page---Rick-Barry
+body class="background-colour">
+  <div class="container-fluid">
+  <h1 class="text-primary underline header">Straight Shooter: Rick Barry</h1>
+</div>
+<div>
+<div> 
+  <h2 class="padding1"> "Half of the players disliked Rick Barry. The other half <i class="text-danger"> hated </i> 
+him."   - Billy Paultz </h2>
+  <h1>&nbsp</h1>
+  </div>
+  
+  <div class="container-fluid">
+    <img src="https://s-media-cache-ak0.pinimg.com/originals/dd/87/fb/dd87fb5088d19d7a8bc9f43d2eab319f.jpg" alt="Pouting Rick Barry" class="centre">
+    <h2>&nbsp</h2>
+  </div>
+  
+<div class="container-fluid">
+<div class="well padding2">
+  <h3> Rick Barry changed the game at the free throw line as well as in the locker room </h3>
+  <ul> 
+    <li>Rick Barry was one of the only players promoting the underhanded shot while at the free throw line </li> 
+    <li> A career 89% free-throw shooter, his technique netted him 5.6 points per game on average</li>
+    <li> He only improved his foul shooting prowess over time with his last 3 seasons in the NBA being his best at 92%, 95%, and 94% respectively </li>
+    <li> Barry scored from more than just the stripe with a career average of 24.8 ppg </li>
+  </ul>
+</div>
+</div>
+  </body>
